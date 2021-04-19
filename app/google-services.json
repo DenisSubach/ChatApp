@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43809917366",
+    "project_id": "chatapp-b654a",
+    "storage_bucket": "chatapp-b654a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43809917366:android:868b081d25728a648ad917",
+        "android_client_info": {
+          "package_name": "com.subach.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43809917366-pg2huocq7rdp2950i9rn9qkdho85f0v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfP24xVl6NowQBBLN6V4kcmvn45ZY6b8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43809917366-pg2huocq7rdp2950i9rn9qkdho85f0v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
